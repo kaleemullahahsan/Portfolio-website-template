@@ -45,7 +45,7 @@ This is a simple and responsive portfolio website template designed for showcasi
 1. Clone this repository to your local machine:
 
    ```bash
-  [ git clone https://github.com/your-username/your-portfolio.git](https://github.com/kaleemullahahsan/Portfolio-website-template.git)
+   git clone https://github.com/your-username/your-portfolio.git](https://github.com/kaleemullahahsan/Portfolio-website-template.git
    ```
 
 2. Modify the content in the HTML file (`index.html`) to include your information.
